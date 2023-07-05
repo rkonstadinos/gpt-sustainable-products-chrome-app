@@ -15,7 +15,7 @@
 
 * Chrome Extension / App manifest 3.0
 * Javascript / Ajax
-* Python
+* Python / Flask
 * OpenAI API
 
 ## Authors
