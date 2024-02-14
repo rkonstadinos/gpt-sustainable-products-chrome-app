@@ -1,4 +1,17 @@
-# A GPT-Powered Software for Identifying Sustainable Product Features
+# Unveiling Sustainability in Ecommerce: GPT-Powered Software for Identifying Sustainable Product Features
+
+## Published Paper
+* **Journal**: [Sustainability | An Open Access Journal from MDPI](https://www.mdpi.com/journal/sustainability)
+* **Title**: Unveiling Sustainability in Ecommerce: GPT-Powered Software for Identifying Sustainable Product Features 
+* **DOI**: https://www.mdpi.com/2071-1050/15/15/12015
+
+## Authors
+* **Konstantinos I. Roumeliotis**
+* **Prof. Nikolaos D. Tselikas**
+* **Prof. Dimitrios K. Nasiopoulos**
+
+## Abstract
+In recent years, the concept of sustainability has gained significant attention across various industries. Consumers are increasingly concerned about the environmental impact of the products they purchase, leading to a growing demand for sustainable options. However, identifying sustainable product features can be a complex and time-consuming task. This paper presents a novel approach to address this challenge by utilizing GPT (Generative Pre-trained Transformer) powered software for automatically identifying sustainable product features from product descriptions, titles, and product specifications. The software leverages the power of natural language processing and machine learning to classify products into different sustainability categories. By analyzing the textual information provided, the software can extract key sustainability indicators, such as eco-friendly materials, energy efficiency, recyclability, and ethical sourcing. This automated process eliminates the need for manual assessment and streamlines the evaluation of product sustainability. The proposed software not only empowers consumers to make informed and sustainable purchasing decisions but also facilitates businesses in showcasing their environmentally friendly offerings. The experimental results demonstrate the effectiveness and accuracy of the software in identifying sustainable product features. The primary objective of this article is to assess the suitability of the GPT model for the domain of sustainability assessment. By collecting a real-life dataset and employing a specific methodology, four hypotheses are formulated, which will be substantiated through the experimental outcomes. This research contributes to the field of sustainability assessment by combining advanced language models with product classification, paving the way for a more sustainable and eco-conscious future.
 
 ## Installation
 
@@ -17,24 +30,3 @@
 * Javascript / Ajax
 * Python / Flask
 * OpenAI API
-
-## Authors
-
-* **Konstantinos I. Roumeliotis**
-* **Prof. Nikolaos D. Tselikas**
-
-## License
-
-This project is licensed under the MIT License.
-The python libraries and APIs used clearly belong to their respective owners.
-
-MIT License
-
-Copyright (c) 2023 Konstantinos I. Roumeliotis, Nikolaos D. Tselikas
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
