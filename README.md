@@ -2,8 +2,8 @@
 
 ## Published Paper
 * **Journal**: [Sustainability | An Open Access Journal from MDPI](https://www.mdpi.com/journal/sustainability)
-* **Title**: Unveiling Sustainability in Ecommerce: GPT-Powered Software for Identifying Sustainable Product Features 
-* **DOI**: https://www.mdpi.com/2071-1050/15/15/12015
+* **Title**: [Unveiling Sustainability in Ecommerce: GPT-Powered Software for Identifying Sustainable Product Features ](https://www.mdpi.com/2071-1050/15/15/12015)
+* **DOI**: https://doi.org/10.3390/su151512015
 
 ## Authors
 * **Konstantinos I. Roumeliotis**
